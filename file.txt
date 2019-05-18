@@ -1,0 +1,5 @@
+1.	Block
+2.	Tower of Hanoi
+3.	Jackpot
+4.	Classic Snake
+5.	Tic Tak Toe
